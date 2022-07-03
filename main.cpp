@@ -15,8 +15,7 @@ struct Position {int x, y;};
 
 std::vector<Position> empty_cell;
 
-// TO-DO
-// fix the gameover trigger
+
 
 // Color Pallete
 sf::Color color_array[] = {
